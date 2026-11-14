@@ -1,6 +1,6 @@
 # EmojiPill
 
-Une petite « pilule » d'emojis dans la barre des menus de macOS : un clic, tes 8 emojis préférés, un clic de plus, l'emoji est copié. Aucune dépendance, un seul fichier Swift.
+J'utilise toujours les mêmes 8 emojis, et ouvrir le sélecteur de macOS à chaque fois m'agaçait. Alors j'ai fait une petite « pilule » dans la barre des menus : un clic, je choisis, c'est copié. Un seul fichier Swift, rien à installer à côté.
 
 *A tiny macOS menu-bar pill with your 8 favourite emojis: click, pick, it's copied. One Swift file, no dependencies.*
 
